@@ -1,0 +1,7 @@
+team: Python
+
+manager: Melody
+
+members: Lee
+
+friend : Linko
